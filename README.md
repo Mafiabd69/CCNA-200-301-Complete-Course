@@ -1,4 +1,4 @@
-# Complete CCNA 200-300 Course Notes:
+# Complete CCNA 200-301 Course Notes:
 # Course Day Chapter Notes:
 
 - Day 1.  [Networking Devices](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Network_Devices.md)
